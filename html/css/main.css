@@ -122,14 +122,14 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .pro {
-    background: rgba(154, 255, 216, 0.9) !important;
+    background: rgba(236, 27, 27, 0.9) !important;
     height: 6px;
     max-width: 100%;
     transition: width 1s, background-color 1s;
 }
 
 .pro1 {
-    background: rgba(154, 255, 216, 0.9) !important;
+    background: rgba(236, 27, 27, 0.9) !important;
     height: 6px;
     max-width: 100%;
     transition: width 1s, background-color 1s;
